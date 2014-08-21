@@ -8,6 +8,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 * How did you get to where you're at?
 * What size of teams have you worked on before?
 * Do you go to conferences or meetups? Which ones?
+* How do you stay current?
 * What's your ideal position?
 * What would you be excited to do here?
 * What do you think the future of your career will be?
@@ -18,6 +19,9 @@ Get an idea at their technical level, but this is more about the person. Are the
 * How would you optimize a websites assets/resources?
 * Can you describe the difference between progressive enhancement and graceful degradation?
 * What are some ways to decrease page load. (perceived or actual load time)
+* What would you change about HTML5/CSS3 if you could?
+* How do you write an extension for JQuery?
+* What is a good website/UI for you?
 
 ##### Open-ended / Story-telling
 * Tell me about the hardest problem you've had to solve in a client/work scenario.
