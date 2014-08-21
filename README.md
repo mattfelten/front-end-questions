@@ -1,6 +1,17 @@
 Front-end Job Interview Questions
 ===================
 
+## Phone Screener
+Get an idea at their technical level, but this is more about the person. Are they a culture fit?
+* How did you find out about this job?
+* Tell me about your background
+* How did you get to where you're at?
+* What size of teams have you worked on before?
+* Do you go to conferences or meetups? Which ones?
+* What's your ideal position?
+* What would you be excited to do here?
+* What do you think the future of your career will be?
+
 ## Intro
 * Talk about your preferred development environment. (OS, Editor, Browsers, Tools etc.)
 * How would you optimize a websites assets/resources?
