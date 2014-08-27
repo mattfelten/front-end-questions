@@ -21,6 +21,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 * What are some ways to decrease page load. (perceived or actual load time)
 * What would you change about HTML5/CSS3 if you could?
 * What's your criteria for deciding if a design/UI is good or not?
+* What's your favorite app?
 
 
 ##### Open-ended / Story-telling
@@ -39,11 +40,13 @@ Get an idea at their technical level, but this is more about the person. Are the
 * Tell me about your design process. How would you approach a project?
 * How do you design an interface for a 1000 floors elevator?
 * What are the problems with the UI with [this online order form](example-sandwich.md)? How would you redesign it?
+* What are affordances?
+* What is Fitts' Law?
 
 
 ##### Front-end Development
 * What can you tell me about [this SQL statement](example-sql.md)?
-* How do you write an extension for JQuery?
+* How do you write an extension for jQuery?
 * We're going to offer a brand new service and there's no work done yet. You're handling all the front end. Where do you start?
 * Working on a team of a designer, you doing front-end development, and a back-end programmer, how do you prefer to handle that collaboration?
 * You have a slow application that runs with a 5,000 line JavaScript file and you need to make it run faster. Where do you start?
