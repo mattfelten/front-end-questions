@@ -36,12 +36,9 @@ Get an idea at their technical level, but this is more about the person. Are the
 * What's your favorite typeface? Why?
 * What's your least favorite design trend in the last year or two?
 * Who are your favorite designers?
-<<<<<<< HEAD
 * Tell me about your design process. How would you approach a project?
 * How do you design an interface for a 1000 floors elevator?
-=======
 * What are the problems with the UI with [this online order form](example-sandwich.md)? How would you redesign it?
->>>>>>> Add sandwich question
 
 
 ##### Front-end Development
