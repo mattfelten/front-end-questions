@@ -24,16 +24,20 @@ Get an idea at their technical level, but this is more about the person. Are the
 
 
 ##### Open-ended / Story-telling
+* What’s the project you worked on that you’re most proud of?
 * Tell me about the hardest problem you've had to solve in a client/work scenario.
 * If we went hands off and you can work on whatever project you wanted, what would you do?
 * What’s the feature you’d most like to see DreamHost offer that we do not today?
 * Where do you see the hosting industry going in the future?
+* How do you define done?
 
 
 ##### Design
 * What's your favorite typeface? Why?
 * What's your least favorite design trend in the last year or two?
 * Who are your favorite designers?
+* Tell me about your design process. How would you approach a project?
+* How do you design an interface for a 1000 floors elevator?
 
 
 ##### Front-end Development
