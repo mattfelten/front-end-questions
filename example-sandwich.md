@@ -1,5 +1,5 @@
 ---
-
+layout: default
 ---
 CHOOSE A SANDWICH
 ===================

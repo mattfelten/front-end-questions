@@ -1,5 +1,5 @@
 ---
-
+layout: default
 ---
 
 Front-end Job Interview Questions
@@ -41,13 +41,13 @@ Get an idea at their technical level, but this is more about the person. Are the
 * Who are your favorite designers?
 * Tell me about your design process. How would you approach a project?
 * How do you design an interface for a 1000 floors elevator?
-* What are the problems with the UI with [this online order form](example-sandwich.md)? How would you redesign it?
+* What are the problems with the UI with [this online order form](example-sandwich.html)? How would you redesign it?
 * What are affordances?
 * What is Fitts' Law?
 
 
 ##### Front-end Development
-* What can you tell me about [this SQL statement](example-sql.md)?
+* What can you tell me about [this SQL statement](example-sql.html)?
 * How do you write an extension for jQuery?
 * Can you describe the difference between progressive enhancement and graceful degradation?
 * What are some ways to decrease page load. (perceived or actual load time)

@@ -2,5 +2,4 @@
 name: Front-end Questions
 
 # Jekyll Config
-exclude: ['Gemfile', 'Gemfile.lock', '*.scss','Readme.md']
 markdown: redcarpet
