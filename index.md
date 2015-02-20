@@ -5,7 +5,7 @@ layout: default
 Front-end Job Interview Questions
 ===================
 
-### Phone Screener
+## Phone Screener
 Get an idea at their technical level, but this is more about the person. Are they a culture fit?
 
 * How did you find out about this job?
@@ -18,15 +18,15 @@ Get an idea at their technical level, but this is more about the person. Are the
 * What would you be excited to do here?
 * What do you think the future of your career will be?
 
-### In Person Interview
-##### Intro
+## In Person Interview
+#### Intro
 * Talk about your preferred working environment. (OS, Editor, Browsers, Tools etc.)
 * How would you optimize a websites assets/resources?
 * What's your criteria for deciding if a design/UI is good or not?
 * What's your favorite app?
 
 
-##### Open-ended / Story-telling
+#### Open-ended / Story-telling
 * What’s the project you worked on that you’re most proud of?
 * Tell me about the hardest problem you've had to solve in a client/work scenario.
 * If we went hands off and you can work on whatever project you wanted, what would you do?
@@ -35,7 +35,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 * How do you define done?
 
 
-##### Design
+#### Design
 * What's your favorite typeface? Why?
 * What's your least favorite design trend in the last year or two?
 * Who are your favorite designers?
@@ -46,7 +46,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 * What is Fitts' Law?
 
 
-##### Front-end Development
+#### Front-end Development
 * What can you tell me about [this SQL statement](example-sql.html)?
 * How do you write an extension for jQuery?
 * Can you describe the difference between progressive enhancement and graceful degradation?
