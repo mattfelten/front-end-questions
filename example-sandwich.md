@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-CHOOSE A SANDWICH
+Choose a Sandwich
 ===================
 
 * [Turkey on Wheat with Lettuce, Tomato and Onion](http://google.com)
