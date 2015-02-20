@@ -7,6 +7,7 @@ Front-end Job Interview Questions
 
 ### Phone Screener
 Get an idea at their technical level, but this is more about the person. Are they a culture fit?
+
 * How did you find out about this job?
 * Tell me about your background
 * How did you get to where you're at?
