@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title></title>
+    <meta name="description" content="">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/example-sql.html">
+</head>
+
+
+  <body>
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="highlight"><pre><code class="language-text" data-lang="text">SELECT SUM(payment.amount) AS value, COUNT(payment.amount) AS payments FROM payment, pay_method WHERE day &gt;= &#39;2014-08-08 00:00:00&#39; AND   day &lt;= &#39;2014-08-08 23:59:59&#39; AND   payment.pm_id  = pay_method.pm_id AND   payment.status = &#39;approved&#39; AND   pay_method.type in (     &#39;ccard&#39;, &#39;ach&#39;, &#39;paypal&#39;, &#39;mail_in&#39;, &#39;wire&#39;, &#39;google&#39;);
+</code></pre></div>
+      </div>
+    </div>
+
+  </body>
+
+</html>
