@@ -3,3 +3,6 @@ name: Front-end Questions
 
 # Jekyll Config
 markdown: redcarpet
+
+# Server Config
+baseurl: /front-end-questions
