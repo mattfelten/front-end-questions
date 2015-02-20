@@ -10,6 +10,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 
 * How did you find out about this job?
 * Tell me about your background
+* What got you into design?
 * How did you get to where you're at?
 * What size of teams have you worked on before?
 * Do you go to conferences or meetups? Which ones?
