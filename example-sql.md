@@ -4,12 +4,12 @@ layout: default
 Example SQL Statement
 ===================
 ````sql
-FROM
-	payment,
-	pay_method
 SELECT
 	SUM(payment.amount) AS value,
 	COUNT(payment.amount) AS payments
+FROM
+	payment,
+	pay_method
 WHERE
 	day >= '2014-08-08 00:00:00'
 AND
