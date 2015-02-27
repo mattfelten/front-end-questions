@@ -1,4 +1,4 @@
-Front-end Job Interview Questions
+UI Designer Interview Questions
 ===================
 
 ## Phone Screener
