@@ -17,6 +17,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 
 ## In Person Interview
 #### Intro
+* What's a day in the life of [name]?
 * Talk about your preferred working environment. (OS, Editor, Browsers, Tools etc.)
 * How would you optimize a websites assets/resources?
 * What's your criteria for deciding if a design/UI is good or not?
