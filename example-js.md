@@ -1,0 +1,27 @@
+---
+layout: default
+---
+Javascript Code Questions
+===================
+What is the value of `foo`?
+
+````js
+var foo = 10 + '20';
+````
+
+What value is returned from this statement?
+
+````js
+"i'm a lasagna hog".split("").reverse().join("");
+````
+
+What is the outcome of the two alerts below?
+
+````js
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
+})();
+alert(foo + bar);
+````

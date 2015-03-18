@@ -45,10 +45,13 @@ Get an idea at their technical level, but this is more about the person. Are the
 
 
 #### Front-end Development
+* Traditionally, why has it been better to serve site assets from multiple domains?
+* [Javascript Code Questions](example-js.html)
 * What can you tell me about [this SQL statement](example-sql.html)?
 * How do you write an extension for jQuery?
 * Can you describe the difference between progressive enhancement and graceful degradation?
 * What are some ways to decrease page load. (perceived or actual load time)
+* How do you organize your code?
 * What would you change about HTML5/CSS3 if you could?
 * We're going to offer a brand new service and there's no work done yet. You're handling all the front end. Where do you start?
 * Working on a team of a designer, you doing front-end development, and a back-end programmer, how do you prefer to handle that collaboration?
