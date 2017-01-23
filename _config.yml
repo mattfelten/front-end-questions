@@ -1,8 +1,5 @@
 # Site Description
 name: UI Designer Interview Questions
 
-# Jekyll Config
-markdown: redcarpet
-
 # Server Config
-baseurl: /ui-design-questions
+baseurl: /hiring-questions
