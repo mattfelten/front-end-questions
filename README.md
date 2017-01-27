@@ -16,6 +16,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 * What do you think the future of your career will be?
 
 ## In Person Interview
+
 #### Intro
 * What's a day in the life of [name]?
 * Talk about your preferred working environment. (OS, Editor, Browsers, Tools etc.)
