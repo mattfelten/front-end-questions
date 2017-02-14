@@ -1,4 +1,4 @@
-UI Designer Interview Questions
+Hiring Questions
 ===================
 
 ## Phone Screener
