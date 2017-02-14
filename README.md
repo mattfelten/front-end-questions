@@ -48,7 +48,6 @@ Get an idea at their technical level, but this is more about the person. Are the
 #### Front-end Development
 * Traditionally, why has it been better to serve site assets from multiple domains?
 * [Javascript Code Questions](example-js.html)
-* What can you tell me about [this SQL statement](example-sql.html)?
 * How do you write an extension for jQuery?
 * Can you describe the difference between progressive enhancement and graceful degradation?
 * What are some ways to decrease page load. (perceived or actual load time)
@@ -57,3 +56,20 @@ Get an idea at their technical level, but this is more about the person. Are the
 * We're going to offer a brand new service and there's no work done yet. You're handling all the front end. Where do you start?
 * Working on a team of a designer, you doing front-end development, and a back-end programmer, how do you prefer to handle that collaboration?
 * You have a slow application that runs with a 5,000 line JavaScript file and you need to make it run faster. Where do you start?
+* Describe the difference between `<script>`, `<script async>` and `<script defer>`.
+* Have you ever used a grid system, and if so, what do you prefer?
+* What are some of your rules for writing efficient CSS?
+* What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
+* Which one would you prefer among px, em, rem, %, or pt and why?
+
+
+#### JavaScript Developement
+* What can you tell me about [this SQL statement](example-sql.html)?
+* What are the pros and cons of functional programming vs object-oriented programming?
+* What are two-way data binding and one-way data flow, and how are they different?
+* What is asynchronous programming, and why is it important in JavaScript?
+* Make this work `duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]`
+* Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
+* What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
+* What are the pros and cons of using Promises instead of callbacks?
+* What tools would you use to test your code's functionality?
