@@ -59,6 +59,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
 * Have you ever used a grid system, and if so, what do you prefer?
 * What are some of your rules for writing efficient CSS?
+* What are some upcoming CSS features you're looking forward too that haven't hit full browser compatibility?
 * What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
 * Which one would you prefer among px, em, rem, %, or pt and why?
 
