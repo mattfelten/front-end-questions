@@ -14,6 +14,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 * What's your ideal position?
 * What would you be excited to do here?
 * What do you think the future of your career will be?
+* What kind of salary are you looking for?
 
 ## In Person Interview
 
