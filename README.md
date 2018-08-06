@@ -11,6 +11,7 @@ Get an idea at their technical level, but this is more about the person. Are the
 * What size of teams have you worked on before?
 * Do you go to conferences or meetups? Which ones?
 * How do you stay current?
+* What type of designer do you want to be?
 * What's your ideal position?
 * What would you be excited to do here?
 * What do you think the future of your career will be?
