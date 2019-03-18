@@ -76,3 +76,12 @@ Get an idea at their technical level, but this is more about the person. Are the
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
 * What are the pros and cons of using Promises instead of callbacks?
 * What tools would you use to test your code's functionality?
+
+
+#### Design Systems
+* What does your design process look like when creating new components for a design system?
+* How can you monitor your components live in production?
+* How do you test functional components? Visual components?
+* What does “maintainable” and “legible” CSS look like in a component library?
+* How do we communicate component changes internally? Externally?
+* What is the right balance between customization and control?
